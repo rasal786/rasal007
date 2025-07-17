@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **rasaljafreennj@gmail.com**
 
+My Portfolio https://preview--rasal-digital-canvas.lovable.app/
+
 - ⚡ Fun fact **Ai can change the world 🌎**
 
 <h3 align="left">Connect with me:</h3>

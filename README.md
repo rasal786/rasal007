@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rasaljafreennj@gmail.com**
 
-My Portfolio https://preview--rasal-digital-canvas.lovable.app/
+My Portfolio https://mohamedrasal.netlify.app
 
 - ⚡ Fun fact **Ai can change the world 🌎**
 

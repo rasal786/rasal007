@@ -1,3 +1,4 @@
+[![MasterHead](heading_img.gif)](https://mohamedrasal.netlify.app/)
 <h1 align="center">Hi 👋, I'm Mohamed Rasal</h1>
 <h3 align="center">A passionate about data science & analytics</h3>
 
